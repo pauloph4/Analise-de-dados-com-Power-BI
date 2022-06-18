@@ -1,0 +1,3 @@
+Dashboard analyzing the satisfaction of passengers who traveled by plane in a given period.
+
+Data Source: https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction
