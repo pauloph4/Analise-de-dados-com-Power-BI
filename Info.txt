@@ -1,0 +1,4 @@
+Fonte: Dados Fictícios.
+
+Analise da situação de uma escola técnica ao longo do período determinado, considerando datas de matricula, 
+situação dos alunos nos cursos, notas, etc.
